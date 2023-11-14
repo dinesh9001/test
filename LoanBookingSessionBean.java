@@ -34,4 +34,8 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+Adl-Anna nagar
+Yoga Greens
+aws - Devops
+Git part 1
